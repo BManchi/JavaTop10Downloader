@@ -1,8 +1,5 @@
 package com.example.javatop10downloader;
 
-/**
- * Created by timbuchalka on 12/07/2016.
- */
 
 public class FeedEntry {
 
